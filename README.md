@@ -7,3 +7,4 @@ specifications :
 
 1. need the segmentation of the player seekbar
 2. add the preview for the hover effect on the segments
+3. NextJs tools to improve the productivity
